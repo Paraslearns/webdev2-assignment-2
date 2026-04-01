@@ -22,7 +22,7 @@ A vanilla JavaScript weather application that fetches and displays real-time wea
 
 ## 📦 Running Locally
 Because this project purely uses Vanilla HTML/CSS/JS, running it is incredibly simple:
-1. Clone the repository: `git clone https://github.com/mrsameer12082006-spec/-Async-Weather-Tracker.git`
+1. Clone the repository: `git clone https://github.com/Paraslearns/webdev2-assignment-2.git`
 2. Open `index.html` in your favorite web browser! No local server or build pipeline required.
 
 ## 📋 Assignment Requirements Fulfilled
